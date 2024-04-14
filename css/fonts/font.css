@@ -1,0 +1,6 @@
+@font-face {
+    font-family: ZhuZiAWan;
+    /* src: url(https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf); */
+    src: url('/css/fonts/ZhuZiAWan.ttf') format("truetype");  
+    font-display: swap
+}

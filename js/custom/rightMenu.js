@@ -190,7 +190,7 @@ $("#rightmenu-mask").contextmenu(function () {
 
 // 禁止复制
 // 禁止文字选择
-// document.onselectstart = function(){ return false; };
+document.onselectstart = function(){ return false; };
 // 禁止复制
 document.oncopy = function(){ return false; };
 // 禁止剪切
